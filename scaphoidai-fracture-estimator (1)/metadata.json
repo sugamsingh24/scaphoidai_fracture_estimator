@@ -1,0 +1,5 @@
+{
+  "name": "ScaphoidAI Fracture Estimator",
+  "description": "A clinical decision support tool that uses Google Gemini AI to estimate the probability of a true scaphoid fracture in patients with wrist trauma. Features synthetic data generation and AI-powered risk analysis.",
+  "requestFramePermissions": []
+}
